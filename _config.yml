@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-AU"
-title                    : "Yaxin Zheng / Miss"
+title                    : "/ Miss"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
